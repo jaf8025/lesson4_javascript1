@@ -15,8 +15,7 @@ Fundamentals and the building blocks of the language.
 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jaf8025.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
 1. Principeles of JavaScript
