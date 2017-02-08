@@ -1,0 +1,24 @@
+## Project Name:  Expense Calculator Application
+
+### Course Title:
+LIS 2360:  Web Application Development
+
+### Assignment Date:  
+ * February 8, 2017
+
+### Student Name:  
+ * John McDowell
+
+### Project Description:
+ *  This lesson introduces the JavaScript programming
+Fundamentals and the building blocks of the language.
+
+
+### View Project:
+(Replace this statement with your Github Page URL that was created when you 
+ published the project.)
+
+### Lessons Learned in the Assignment:
+1. Principeles of JavaScript
+2. How to create an application in JavaScript from a template
+3. Practice manipulating JavaScript code.
